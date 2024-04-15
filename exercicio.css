@@ -1,0 +1,17 @@
+main
+{
+    background-color: #476ecc;
+    color: #fff;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+h1
+{
+    border: 10px solid #fff;
+    border-radius: 60px;
+}
